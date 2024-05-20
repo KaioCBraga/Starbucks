@@ -227,3 +227,17 @@ h2 {
   margin-bottom: 50px;
   line-height: 25px;
 }
+
+.area5 {
+  background-image: url(../img/bg4.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 80px;
+  text-align: center;
+}
